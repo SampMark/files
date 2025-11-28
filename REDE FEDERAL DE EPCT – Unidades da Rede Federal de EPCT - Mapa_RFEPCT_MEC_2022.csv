@@ -1,4 +1,4 @@
-UID,Ano_Criacao,Sigla_IF,Nome_IF,Campus_IF,Regioes,UF,Municipio,Cidade_UF
+UID,Ano_Criacao,Sigla_IF,Nome_IF,Campus_IF,Regioes,UF,Municipio,Endereco_Padronizado
 ifac_campus_rio_branco,2010,IFAC,Instituto Federal do Acre,Campus Rio Branco,Norte,AC,Rio Branco,Rio Branco/AC
 ifac_campus_sena_madureira,2010,IFAC,Instituto Federal do Acre,Campus Sena Madureira,Norte,AC,Sena Madureira,Sena Madureira/AC
 ifac_campus_tarauaca,2013,IFAC,Instituto Federal do Acre,Campus Tarauacá,Norte,AC,Tarauacá,Tarauacá/AC
@@ -37,12 +37,12 @@ ifam_campus_eirunepe,2016,IFAM,Instituto Federal do Amazonas,Campus Eirunepé,No
 ifam_campus_itacoatiara,2016,IFAM,Instituto Federal do Amazonas,Campus Itacoatiara,Norte,AM,Itacoatiara,Itacoatiara/AM
 ifam_campus_tefe,2016,IFAM,Instituto Federal do Amazonas,Campus Tefé,Norte,AM,Tefé,Tefé/AM
 ifam_campus_avancado_boca_do_acre,2018,IFAM,Instituto Federal do Amazonas,Campus Avançado Boca do Acre,Norte,AM,Boca do Acre,Boca do Acre/AM
-ifam_campus_avancado_iranduba,2018,IFAM,Instituto Federal do Amazonas,Campus Avançado Iranduba,Norte,AM,Iranduba,Iranduba/AM
+ifam_campus_iranduba,2018,IFAM,Instituto Federal do Amazonas,Campus Iranduba,Norte,AM,Iranduba,Iranduba/AM
 ifam_polo_de_inovacao_manaus,2021,IFAM,Instituto Federal do Amazonas,Polo de Inovação Manaus,Norte,AM,Manaus,Manaus/AM
 ifap_campus_laranjal_do_jari,2010,IFAP,Instituto Federal do Amapá,Campus Laranjal do Jari,Norte,AP,Laranjal do Jari,Laranjal do Jari/AP
 ifap_campus_macapa,2010,IFAP,Instituto Federal do Amapá,Campus Macapá,Norte,AP,Macapá,Macapá/AP
 ifap_campus_santana,2015,IFAP,Instituto Federal do Amapá,Campus Santana,Norte,AP,Santana,Santana/AP
-ifap_campus_avancado_oiapoque,2016,IFAP,Instituto Federal do Amapá,Campus Avançado Oiapoque,Norte,AP,Oiapoque,Oiapoque/AP
+ifap_campus_oiapoque,2016,IFAP,Instituto Federal do Amapá,Campus Oiapoque,Norte,AP,Oiapoque,Oiapoque/AP
 ifap_campus_porto_grande,2016,IFAP,Instituto Federal do Amapá,Campus Porto Grande,Norte,AP,Porto Grande,Porto Grande/AP
 if_baiano_campus_teixeira_de_freitas,2010,IF Baiano,Instituto Federal Baiano,Campus Teixeira de Freitas,Nordeste,BA,Teixeira de Freitas,Teixeira de Freitas/BA
 if_baiano_campus_valenca,2010,IF Baiano,Instituto Federal Baiano,Campus Valença,Nordeste,BA,Valença,Valença/BA
@@ -80,7 +80,7 @@ ifba_campus_juazeiro,2015,IFBA,Instituto Federal da Bahia,Campus Juazeiro,Nordes
 ifba_polo_de_inovacao_salvador,2015,IFBA,Instituto Federal da Bahia,Polo de Inovação Salvador,Nordeste,BA,Salvador,Salvador/BA
 ifba_campus_avancado_ubaitaba,2015,IFBA,Instituto Federal da Bahia,Campus Avançado Ubaitaba,Nordeste,BA,Ubaitaba,Ubaitaba/BA
 ifba_campus_lauro_de_freitas,2016,IFBA,Instituto Federal da Bahia,Campus Lauro de Freitas,Nordeste,BA,Lauro de Freitas,Lauro de Freitas/BA
-ifba_campus_santo_antynio_de_jesus,2016,IFBA,Instituto Federal da Bahia,Campus Santo Antÿnio de Jesus,Nordeste,BA,Santo Antÿnio de Jesus,Santo Antÿnio de Jesus/BA
+ifba_campus_santo_antonio_de_jesus,2016,IFBA,Instituto Federal da Bahia,Campus Santo Antônio de Jesus,Nordeste,BA,Santo Antÿnio de Jesus,Santo Antÿnio de Jesus/BA
 ifce_campus_aracati,2013,IFCE,Instituto Federal do Ceará,Campus Aracati,Nordeste,CE,Aracati,Aracati/CE
 ifce_campus_baturite,2013,IFCE,Instituto Federal do Ceará,Campus Baturité,Nordeste,CE,Baturité,Baturité/CE
 ifce_campus_camocim,2013,IFCE,Instituto Federal do Ceará,Campus Camocim,Nordeste,CE,Camocim,Camocim/CE
@@ -143,7 +143,7 @@ ifes_campus_nova_venecia,2008,IFES,Instituto Federal do Espírito Santo,Campus N
 ifes_campus_ibatiba,2010,IFES,Instituto Federal do Espírito Santo,Campus Ibatiba,Sudeste,ES,Ibatiba,Ibatiba/ES
 ifes_campus_venda_nova_do_imigrante,2013,IFES,Instituto Federal do Espírito Santo,Campus Venda Nova do Imigrante,Sudeste,ES,Venda Nova do Imigrante,Venda Nova do Imigrante/ES
 ifes_campus_montanha,2014,IFES,Instituto Federal do Espírito Santo,Campus Montanha,Sudeste,ES,Montanha,Montanha/ES
-ifes_campus_avancado_viana,2014,IFES,Instituto Federal do Espírito Santo,Campus Avançado Viana,Sudeste,ES,Viana,Viana/ES
+ifes_campus_viana,2014,IFES,Instituto Federal do Espírito Santo,Campus Viana,Sudeste,ES,Viana,Viana/ES
 ifes_polo_de_inovacao_vitoria,2015,IFES,Instituto Federal do Espírito Santo,Polo de Inovação Vitória,Sudeste,ES,Vitória,Vitória/ES
 ifes_campus_barra_de_sao_francisco,2016,IFES,Instituto Federal do Espírito Santo,Campus Barra de São Francisco,Sudeste,ES,Barra de São Francisco,Barra de São Francisco/ES
 ifes_campus_centro_serrano,2016,IFES,Instituto Federal do Espírito Santo,Campus Centro Serrano,Sudeste,ES,Santa Maria de Jetibá,Santa Maria de Jetibá/ES
@@ -199,7 +199,7 @@ ifma_campus_bacabal,2010,IFMA,Instituto Federal do Maranhão,Campus Bacabal,Nord
 ifma_campus_barra_do_corda,2010,IFMA,Instituto Federal do Maranhão,Campus Barra do Corda,Nordeste,MA,Barra do Corda,Barra do Corda/MA
 ifma_campus_barreirinhas,2010,IFMA,Instituto Federal do Maranhão,Campus Barreirinhas,Nordeste,MA,Barreirinhas,Barreirinhas/MA
 ifma_campus_caxias,2010,IFMA,Instituto Federal do Maranhão,Campus Caxias,Nordeste,MA,Caxias,Caxias/MA
-ifma_campus_avancado_carolina,2014,IFMA,Instituto Federal do Maranhão,Campus Avançado Carolina,Nordeste,MA,Carolina,Carolina/MA
+ifma_campus_carolina,2014,IFMA,Instituto Federal do Maranhão,Campus Carolina,Nordeste,MA,Carolina,Carolina/MA
 ifma_campus_avancado_porto_franco,2014,IFMA,Instituto Federal do Maranhão,Campus Avançado Porto Franco,Nordeste,MA,Porto Franco,Porto Franco/MA
 ifma_campus_avancado_rosario,2014,IFMA,Instituto Federal do Maranhão,Campus Avançado Rosário,Nordeste,MA,Rosário,Rosário/MA
 ifma_campus_sao_jose_de_ribamar,2014,IFMA,Instituto Federal do Maranhão,Campus São José de Ribamar,Nordeste,MA,São José de Ribamar,São José de Ribamar/MA
@@ -227,13 +227,13 @@ ifmg_campus_bambui,1968,IFMG,Instituto Federal de Minas Gerais,Campus Bambuí,Su
 ifmg_campus_congonhas,2006,IFMG,Instituto Federal de Minas Gerais,Campus Congonhas,Sudeste,MG,Congonhas,Congonhas/MG
 ifmg_campus_formiga,2008,IFMG,Instituto Federal de Minas Gerais,Campus Formiga,Sudeste,MG,Formiga,Formiga/MG
 ifmg_campus_governador_valadares,2010,IFMG,Instituto Federal de Minas Gerais,Campus Governador Valadares,Sudeste,MG,Governador Valadares,Governador Valadares/MG
-ifmg_campus_avancado_ipatinga,2014,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ipatinga,Sudeste,MG,Ipatinga,Ipatinga/MG
-ifmg_campus_avancado_piumhi,2014,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Piumhi,Sudeste,MG,Piumhi,Piumhi/MG
-ifmg_campus_avancado_conselheiro_lafaiete,2015,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Conselheiro Lafaiete,Sudeste,MG,Conselheiro Lafaiete,Conselheiro Lafaiete/MG
+ifmg_campus_ipatinga,2014,IFMG,Instituto Federal de Minas Gerais,Campus Ipatinga,Sudeste,MG,Ipatinga,Ipatinga/MG
+ifmg_campus_piumhi,2014,IFMG,Instituto Federal de Minas Gerais,Campus Piumhi,Sudeste,MG,Piumhi,Piumhi/MG
+ifmg_campus_conselheiro_lafaiete,2015,IFMG,Instituto Federal de Minas Gerais,Campus Conselheiro Lafaiete,Sudeste,MG,Conselheiro Lafaiete,Conselheiro Lafaiete/MG
 ifmg_polo_de_inovacao_formiga,2015,IFMG,Instituto Federal de Minas Gerais,Polo de Inovação Formiga,Sudeste,MG,Formiga,Formiga/MG
 ifmg_campus_avancado_itabirito,2015,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Itabirito,Sudeste,MG,Itabirito,Itabirito/MG
-ifmg_campus_avancado_ponte_nova,2015,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Ponte Nova,Sudeste,MG,Ponte Nova,Ponte Nova/MG
-ifmg_campus_avancado_arcos,2016,IFMG,Instituto Federal de Minas Gerais,Campus Avançado Arcos,Sudeste,MG,Arcos,Arcos/MG
+ifmg_campus_ponte_nova,2015,IFMG,Instituto Federal de Minas Gerais,Campus Ponte Nova,Sudeste,MG,Ponte Nova,Ponte Nova/MG
+ifmg_campus_arcos,2016,IFMG,Instituto Federal de Minas Gerais,Campus Arcos,Sudeste,MG,Arcos,Arcos/MG
 ifmg_campus_ibirite,2018,IFMG,Instituto Federal de Minas Gerais,Campus Ibirité,Sudeste,MG,Ibirité,Ibirité/MG
 ifnmg_campus_montes_claros,2010,IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Montes Claros,Sudeste,MG,Montes Claros,Montes Claros/MG
 ifnmg_campus_pirapora,2010,IFNMG,Instituto Federal do Norte de Minas Gerais,Campus Pirapora,Sudeste,MG,Pirapora,Pirapora/MG
@@ -252,7 +252,7 @@ if_sudeste_mg_campus_sao_joao_del_rei,2013,IF Sudeste MG,Instituto Federal do Su
 if_sudeste_mg_campus_barbacena,1910,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Barbacena,Sudeste,MG,Barbacena,Barbacena/MG
 if_sudeste_mg_campus_juiz_de_fora,1946,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Juiz de Fora,Sudeste,MG,Juiz de Fora,Juiz de Fora/MG
 if_sudeste_mg_campus_rio_pomba,1964,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Rio Pomba,Sudeste,MG,Rio Pomba,Rio Pomba/MG
-if_sudeste_mg_campus_avancado_bom_sucesso,2014,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Bom Sucesso,Sudeste,MG,Bom Sucesso,Bom Sucesso/MG
+if_sudeste_mg_campus_bom_sucesso,2014,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Bom Sucesso,Sudeste,MG,Bom Sucesso,Bom Sucesso/MG
 if_sudeste_mg_campus_avancado_cataguases,2015,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Cataguases,Sudeste,MG,Cataguases,Cataguases/MG
 if_sudeste_mg_campus_manhuacu,2015,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Manhuaçu,Sudeste,MG,Manhuaçu,Manhuaçu/MG
 if_sudeste_mg_campus_avancado_uba,2015,IF Sudeste MG,Instituto Federal do Sudeste de Minas Gerais,Campus Avançado Ubá,Sudeste,MG,Ubá,Ubá/MG
@@ -303,7 +303,7 @@ ifmt_campus_avancado_tangara_da_serra,2014,IFMT,Instituto Federal de Mato Grosso
 ifmt_campus_alta_floresta,2015,IFMT,Instituto Federal de Mato Grosso,Campus Alta Floresta,Centro-Oeste,MT,Alta Floresta,Alta Floresta/MT
 ifmt_campus_avancado_guaranta_do_norte,2016,IFMT,Instituto Federal de Mato Grosso,Campus Avançado Guarantã do Norte,Centro-Oeste,MT,Guarantã do Norte,Guarantã do Norte/MT
 ifmt_campus_avancado_lucas_do_rio_verde,2016,IFMT,Instituto Federal de Mato Grosso,Campus Avançado Lucas do Rio Verde,Centro-Oeste,MT,Lucas do Rio Verde,Lucas do Rio Verde/MT
-ifmt_campus_avancado_sinop,2016,IFMT,Instituto Federal de Mato Grosso,Campus Avançado Sinop,Centro-Oeste,MT,Sinop,Sinop/MT
+ifmt_campus_sinop,2016,IFMT,Instituto Federal de Mato Grosso,Campus Sinop,Centro-Oeste,MT,Sinop,Sinop/MT
 ifpa_campus_maraba_rural,2010,IFPA,Instituto Federal do Pará,Campus Marabá Rural,Norte,PA,Marabá,Marabá/PA
 ifpa_campus_santarem,2010,IFPA,Instituto Federal do Pará,Campus Santarém,Norte,PA,Santarém,Santarém/PA
 ifpa_campus_breves,2013,IFPA,Instituto Federal do Pará,Campus Breves,Norte,PA,Breves,Breves/PA
@@ -318,7 +318,7 @@ ifpa_campus_braganca,2008,IFPA,Instituto Federal do Pará,Campus Bragança,Norte
 ifpa_campus_conceicao_do_araguaia,2010,IFPA,Instituto Federal do Pará,Campus Conceição do Araguaia,Norte,PA,Conceição do Araguaia,Conceição do Araguaia/PA
 ifpa_campus_itaituba,2010,IFPA,Instituto Federal do Pará,Campus Itaituba,Norte,PA,Itaituba,Itaituba/PA
 ifpa_campus_parauapebas,2014,IFPA,Instituto Federal do Pará,Campus Parauapebas,Norte,PA,Parauapebas,Parauapebas/PA
-ifpa_campus_avancado_vigia,2014,IFPA,Instituto Federal do Pará,Campus Avançado Vigia,Norte,PA,Vigia,Vigia/PA
+ifpa_campus_vigia,2014,IFPA,Instituto Federal do Pará,Campus Vigia,Norte,PA,Vigia,Vigia/PA
 ifpa_campus_ananindeua,2016,IFPA,Instituto Federal do Pará,Campus Ananindeua,Norte,PA,Ananindeua,Ananindeua/PA
 ifpa_campus_cameta,2016,IFPA,Instituto Federal do Pará,Campus Cametá,Norte,PA,Cametá,Cametá/PA
 ifpa_campus_paragominas,2016,IFPA,Instituto Federal do Pará,Campus Paragominas,Norte,PA,Paragominas,Paragominas/PA
@@ -332,9 +332,9 @@ ifpb_campus_sousa,1946,IFPB,Instituto Federal da Paraíba,Campus Sousa,Nordeste,
 ifpb_campus_cajazeiras,1994,IFPB,Instituto Federal da Paraíba,Campus Cajazeiras,Nordeste,PB,Cajazeiras,Cajazeiras/PB
 ifpb_campus_campina_grande,2007,IFPB,Instituto Federal da Paraíba,Campus Campina Grande,Nordeste,PB,Campina Grande,Campina Grande/PB
 ifpb_campus_cabedelo,2010,IFPB,Instituto Federal da Paraíba,Campus Cabedelo,Nordeste,PB,Cabedelo,Cabedelo/PB
-ifpb_campus_avancado_cabedelo_centro,2015,IFPB,Instituto Federal da Paraíba,Campus Avançado Cabedelo Centro,Nordeste,PB,Cabedelo,Cabedelo/PB
+ifpb_campus_cabedelo_centro,2015,IFPB,Instituto Federal da Paraíba,Campus Cabedelo Centro,Nordeste,PB,Cabedelo,Cabedelo/PB
 ifpb_campus_catole_do_rocha,2015,IFPB,Instituto Federal da Paraíba,Campus Catolé do Rocha,Nordeste,PB,Catolé do Rocha,Catolé do Rocha/PB
-ifpb_campus_avancado_joao_pessoa_mangabeira,2016,IFPB,Instituto Federal da Paraíba,Campus Avançado João Pessoa Mangabeira,Nordeste,PB,Coronel João Pessoa,Coronel João Pessoa/PB
+ifpb_campus_avancado_mangabeira,2016,IFPB,Instituto Federal da Paraíba,Campus Avançado Mangabeira,Nordeste,PB,Coronel João Pessoa,Coronel João Pessoa/PB
 ifpb_campus_esperanca,2016,IFPB,Instituto Federal da Paraíba,Campus Esperança,Nordeste,PB,Esperança,Esperança/PB
 ifpb_campus_itabaiana,2016,IFPB,Instituto Federal da Paraíba,Campus Itabaiana,Nordeste,PB,Itabaiana,Itabaiana/PB
 ifpb_campus_itaporanga,2016,IFPB,Instituto Federal da Paraíba,Campus Itaporanga,Nordeste,PB,Itaporanga,Itaporanga/PB
@@ -343,7 +343,7 @@ ifpb_campus_avancado_soledade,2016,IFPB,Instituto Federal da Paraíba,Campus Ava
 ifpb_campus_santa_luzia,2017,IFPB,Instituto Federal da Paraíba,Campus Santa Luzia,Nordeste,PB,Santa Luzia,Santa Luzia/PB
 ifpb_polo_de_inovacao_joao_pessoa,2018,IFPB,Instituto Federal da Paraíba,Polo de Inovação João Pessoa,Nordeste,PB,Coronel João Pessoa,Coronel João Pessoa/PB
 ifpb_campus_avancado_areia,2020,IFPB,Instituto Federal da Paraíba,Campus Avançado Areia,Nordeste,PB,Areia,Areia/PB
-ifpb_campus_avancado_pedras_de_fogo,2020,IFPB,Instituto Federal da Paraíba,Campus Avançado Pedras de Fogo,Nordeste,PB,Pedras de Fogo,Pedras de Fogo/PB
+ifpb_campus_pedra_de_fogo,2020,IFPB,Instituto Federal da Paraíba,Campus Pedra de Fogo,Nordeste,PB,Pedras de Fogo,Pedras de Fogo/PB
 ifpe_campus_cabo_de_santo_agostinho,2013,IFPE,Instituto Federal de Pernambuco,Campus Cabo de Santo Agostinho,Nordeste,PE,Cabo de Santo Agostinho,Cabo de Santo Agostinho/PE
 ifpe_campus_jaboatao_dos_guararapes,2013,IFPE,Instituto Federal de Pernambuco,Campus Jaboatão dos Guararapes,Nordeste,PE,Jaboatão dos Guararapes,Jaboatão dos Guararapes/PE
 ifpe_campus_ipojuca,2007,IFPE,Instituto Federal de Pernambuco,Campus Ipojuca,Nordeste,PE,Ipojuca,Ipojuca/PE
@@ -383,10 +383,10 @@ ifpi_campus_angical_do_piaui,2010,IFPI,Instituto Federal do Piauí,Campus Angica
 ifpi_campus_corrente,2010,IFPI,Instituto Federal do Piauí,Campus Corrente,Nordeste,PI,Corrente,Corrente/PI
 ifpi_campus_campo_maior,2014,IFPI,Instituto Federal do Piauí,Campus Campo Maior,Nordeste,PI,Campo Maior,Campo Maior/PI
 ifpi_campus_cocal,2014,IFPI,Instituto Federal do Piauí,Campus Cocal,Nordeste,PI,Cocal,Cocal/PI
-ifpi_campus_avancado_pio_ix,2014,IFPI,Instituto Federal do Piauí,Campus Avançado PIO IX,Nordeste,PI,Pio IX,Pio IX/PI
-ifpi_campus_avancado_teresina_dirceu_arcoverde,2014,IFPI,Instituto Federal do Piauí,Campus Avançado Teresina Dirceu Arcoverde,Nordeste,PI,Teresina,Teresina/PI
+ifpi_campus_pio_ix,2014,IFPI,Instituto Federal do Piauí,Campus Pio IX,Nordeste,PI,Pio IX,Pio IX/PI
+ifpi_campus_teresina_dirceu_arcoverde,2014,IFPI,Instituto Federal do Piauí,Campus Teresina Dirceu Arcoverde,Nordeste,PI,Teresina,Teresina/PI
 ifpi_campus_valenca_do_piaui,2014,IFPI,Instituto Federal do Piauí,Campus Valença do Piauí,Nordeste,PI,Valença do Piauí,Valença do Piauí/PI
-ifpi_campus_avancado_jose_de_freitas,2016,IFPI,Instituto Federal do Piauí,Campus Avançado José de Freitas,Nordeste,PI,José de Freitas,José de Freitas/PI
+ifpi_campus_jose_de_freitas,2016,IFPI,Instituto Federal do Piauí,Campus José de Freitas,Nordeste,PI,José de Freitas,José de Freitas/PI
 ifpr_campus_jacarezinho,2010,IFPR,Instituto Federal do Paraná,Campus Jacarezinho,Sul,PR,Jacarezinho,Jacarezinho/PR
 ifpr_campus_paranavai,2010,IFPR,Instituto Federal do Paraná,Campus Paranavaí,Sul,PR,Paranavaí,Paranavaí/PR
 ifpr_campus_telemaco_borba,2010,IFPR,Instituto Federal do Paraná,Campus Telêmaco Borba,Sul,PR,Telêmaco Borba,Telêmaco Borba/PR
@@ -402,7 +402,7 @@ ifpr_campus_paranagua,2008,IFPR,Instituto Federal do Paraná,Campus Paranaguá,S
 ifpr_campus_foz_do_iguacu,2010,IFPR,Instituto Federal do Paraná,Campus Foz do Iguaçu,Sul,PR,Foz do Iguaçu,Foz do Iguaçu/PR
 ifpr_campus_avancado_barracao,2014,IFPR,Instituto Federal do Paraná,Campus Avançado Barracão,Sul,PR,Barracão,Barracão/PR
 ifpr_campus_cascavel,2014,IFPR,Instituto Federal do Paraná,Campus Cascavel,Sul,PR,Cascavel,Cascavel/PR
-ifpr_campus_avancado_astorga,2015,IFPR,Instituto Federal do Paraná,Campus Avançado Astorga,Sul,PR,Astorga,Astorga/PR
+ifpr_campus_astorga,2015,IFPR,Instituto Federal do Paraná,Campus Astorga,Sul,PR,Astorga,Astorga/PR
 ifpr_campus_capanema,2015,IFPR,Instituto Federal do Paraná,Campus Capanema,Sul,PR,Capanema,Capanema/PR
 ifpr_campus_avancado_coronel_vivida,2015,IFPR,Instituto Federal do Paraná,Campus Avançado Coronel Vivida,Sul,PR,Coronel Vivida,Coronel Vivida/PR
 ifpr_campus_avancado_goioere,2015,IFPR,Instituto Federal do Paraná,Campus Avançado Goioerê,Sul,PR,Goioerê,Goioerê/PR
@@ -422,7 +422,7 @@ cefet_rj_uned_valenca,2009,CEFET-RJ,Centro Federal de Educação Tecnológica Ce
 cefet_rj_uned_angra_dos_reis,2010,CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Angra dos Reis,Sudeste,RJ,Angra dos Reis,Angra dos Reis/RJ
 cefet_rj_uned_itaguai,2010,CEFET-RJ,Centro Federal de Educação Tecnológica Celso Suckow da Fonseca,Uned Itaguaí,Sudeste,RJ,Itaguaí,Itaguaí/RJ
 cpii_campus_realengo_i,2010,CPII,Colégio Pedro II,Campus Realengo I,Sudeste,RJ,Rio de Janeiro,Rio de Janeiro/RJ
-cpii_campus_duque_de_caxias_cp,2012,CPII,Colégio Pedro II,Campus Duque de Caxias CP,Sudeste,RJ,Duque de Caxias,Duque de Caxias/RJ
+cpii_campus_duque_de_caxias,2012,CPII,Colégio Pedro II,Campus Duque de Caxias,Sudeste,RJ,Duque de Caxias,Duque de Caxias/RJ
 cpii_campus_sao_cristovao_ii,1888,CPII,Colégio Pedro II,Campus São Cristóvão II,Sudeste,RJ,Rio de Janeiro,Rio de Janeiro/RJ
 cpii_campus_centro,1938,CPII,Colégio Pedro II,Campus Centro,Sudeste,RJ,Rio de Janeiro,Rio de Janeiro/RJ
 cpii_campus_engenho_novo_ii,1952,CPII,Colégio Pedro II,Campus Engenho Novo II,Sudeste,RJ,Rio de Janeiro,Rio de Janeiro/RJ
@@ -445,8 +445,8 @@ iff_campus_itaperuna,2009,IFF,Instituto Federal Fluminense,Campus Itaperuna,Sude
 iff_campus_avancado_cambuci,2014,IFF,Instituto Federal Fluminense,Campus Avançado Cambuci,Sudeste,RJ,Cambuci,Cambuci/RJ
 iff_campus_avancado_sao_joao_da_barra,2014,IFF,Instituto Federal Fluminense,Campus Avançado São João da Barra,Sudeste,RJ,São João da Barra,São João da Barra/RJ
 iff_polo_de_inovacao_campos_dos_goytacazes,2015,IFF,Instituto Federal Fluminense,Polo de Inovação Campos dos Goytacazes,Sudeste,RJ,Campos dos Goytacazes,Campos dos Goytacazes/RJ
-iff_campus_avancado_marica,2015,IFF,Instituto Federal Fluminense,Campus Avançado Maricá,Sudeste,RJ,Maricá,Maricá/RJ
-iff_campus_santo_antynio_de_padua,2015,IFF,Instituto Federal Fluminense,Campus Santo Antÿnio de Pádua,Sudeste,RJ,Santo Antÿnio de Pádua,Santo Antÿnio de Pádua/RJ
+iff_campus_marica,2015,IFF,Instituto Federal Fluminense,Campus Maricá,Sudeste,RJ,Maricá,Maricá/RJ
+iff_campus_santo_antonio_de_padua,2015,IFF,Instituto Federal Fluminense,Campus Santo Antônio de Pádua,Sudeste,RJ,Santo Antÿnio de Pádua,Santo Antÿnio de Pádua/RJ
 iff_campus_itaborai,2021,IFF,Instituto Federal Fluminense,Campus Itaboraí,Sudeste,RJ,Itaboraí,Itaboraí/RJ
 ifrj_campus_realengo,2010,IFRJ,Instituto Federal do Rio de Janeiro,Campus Realengo,Sudeste,RJ,Rio de Janeiro,Rio de Janeiro/RJ
 ifrj_campus_sao_goncalo,2010,IFRJ,Instituto Federal do Rio de Janeiro,Campus São Gonçalo,Sudeste,RJ,São Gonçalo,São Gonçalo/RJ
@@ -465,7 +465,7 @@ ifrj_campus_niteroi,2018,IFRJ,Instituto Federal do Rio de Janeiro,Campus Niteró
 ifrj_campus_sao_joao_de_meriti,2018,IFRJ,Instituto Federal do Rio de Janeiro,Campus São João de Meriti,Sudeste,RJ,São João de Meriti,São João de Meriti/RJ
 ifrn_campus_canguaretama,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Canguaretama,Nordeste,RN,Canguaretama,Canguaretama/RN
 ifrn_campus_ceara_mirim,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Ceará-Mirim,Nordeste,RN,Ceará-Mirim,Ceará-Mirim/RN
-ifrn_campus_natal_cidade_alta,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal Cidade Alta,Nordeste,RN,Natal,Natal/RN
+ifrn_campus_natal_centro_historico,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal-Centro Histórico,Nordeste,RN,Natal,Natal/RN
 ifrn_campus_nova_cruz,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Nova Cruz,Nordeste,RN,Nova Cruz,Nova Cruz/RN
 ifrn_campus_parnamirim,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus Parnamirim,Nordeste,RN,Parnamirim,Parnamirim/RN
 ifrn_campus_sao_goncalo_do_amarante,2013,IFRN,Instituto Federal do Rio Grande do Norte,Campus São Gonçalo do Amarante,Nordeste,RN,São Gonçalo do Amarante,São Gonçalo do Amarante/RN
@@ -484,7 +484,7 @@ ifrn_campus_santa_cruz,2009,IFRN,Instituto Federal do Rio Grande do Norte,Campus
 ifrn_campus_avancado_lajes,2015,IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Lajes,Nordeste,RN,Lajes,Lajes/RN
 ifrn_campus_avancado_parelhas,2015,IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Parelhas,Nordeste,RN,Parelhas,Parelhas/RN
 ifrn_campus_avancado_jucurutu,2018,IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Jucurutu,Nordeste,RN,Jucurutu,Jucurutu/RN
-ifrn_campus_avancado_natal_zona_leste,2018,IFRN,Instituto Federal do Rio Grande do Norte,Campus Avançado Natal Zona Leste,Nordeste,RN,Natal,Natal/RN
+ifrn_campus_natal_zona_leste,2018,IFRN,Instituto Federal do Rio Grande do Norte,Campus Natal-Zona Leste,Nordeste,RN,Natal,Natal/RN
 ifro_campus_ji_parana,2010,IFRO,Instituto Federal de Rondônia,Campus Ji-Paraná,Norte,RO,Ji-Paraná,Ji-Paraná/RO
 ifro_campus_porto_velho_zona_norte,2010,IFRO,Instituto Federal de Rondônia,Campus Porto Velho Zona Norte,Norte,RO,Porto Velho,Porto Velho/RO
 ifro_campus_vilhena,2010,IFRO,Instituto Federal de Rondônia,Campus Vilhena,Norte,RO,Vilhena,Vilhena/RO
@@ -494,12 +494,12 @@ ifro_campus_colorado_do_oeste,1993,IFRO,Instituto Federal de Rondônia,Campus Co
 ifro_campus_ariquemes,2010,IFRO,Instituto Federal de Rondônia,Campus Ariquemes,Norte,RO,Ariquemes,Ariquemes/RO
 ifro_campus_guajara_mirim,2016,IFRO,Instituto Federal de Rondônia,Campus Guajará-Mirim,Norte,RO,Guajará-Mirim,Guajará-Mirim/RO
 ifro_campus_jaru,2016,IFRO,Instituto Federal de Rondônia,Campus Jaru,Norte,RO,Jaru,Jaru/RO
-ifro_campus_avancado_sao_miguel_do_guapore,2018,IFRO,Instituto Federal de Rondônia,Campus Avançado São Miguel do Guaporé,Norte,RO,São Miguel do Guaporé,São Miguel do Guaporé/RO
+ifro_campus_sao_miguel_do_guapore,2018,IFRO,Instituto Federal de Rondônia,Campus São Miguel do Guaporé,Norte,RO,São Miguel do Guaporé,São Miguel do Guaporé/RO
 ifrr_campus_boa_vista_zona_oeste,2013,IFRR,Instituto Federal de Roraima,Campus Boa Vista Zona Oeste,Norte,RR,Boa Vista,Boa Vista/RR
 ifrr_campus_novo_paraiso,2006,IFRR,Instituto Federal de Roraima,Campus Novo Paraíso,Norte,RR,Caracaraí,Caracaraí/RR
 ifrr_campus_amajari,2010,IFRR,Instituto Federal de Roraima,Campus Amajari,Norte,RR,Amajari,Amajari/RR
 ifrr_campus_boa_vista,2010,IFRR,Instituto Federal de Roraima,Campus Boa Vista,Norte,RR,Boa Vista,Boa Vista/RR
-ifrr_campus_avancado_bonfim,2015,IFRR,Instituto Federal de Roraima,Campus Avançado Bonfim,Norte,RR,Bonfim,Bonfim/RR
+ifrr_campus_bonfim,2015,IFRR,Instituto Federal de Roraima,Campus Bónfim,Norte,RR,Bonfim,Bonfim/RR
 if_farroupilha_campus_julio_de_castilhos,2010,IF Farroupilha,Instituto Federal Farroupilha,Campus Júlio de Castilhos,Sul,RS,Júlio de Castilhos,Júlio de Castilhos/RS
 if_farroupilha_campus_panambi,2010,IF Farroupilha,Instituto Federal Farroupilha,Campus Panambi,Sul,RS,Panambi,Panambi/RS
 if_farroupilha_campus_santa_rosa,2010,IF Farroupilha,Instituto Federal Farroupilha,Campus Santa Rosa,Sul,RS,Santa Rosa,Santa Rosa/RS
@@ -509,7 +509,7 @@ if_farroupilha_campus_frederico_westphalen,1957,IF Farroupilha,Instituto Federal
 if_farroupilha_campus_alegrete,1964,IF Farroupilha,Instituto Federal Farroupilha,Campus Alegrete,Sul,RS,Alegrete,Alegrete/RS
 if_farroupilha_campus_santo_augusto,2007,IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Augusto,Sul,RS,Santo Augusto,Santo Augusto/RS
 if_farroupilha_campus_sao_vicente_do_sul,2008,IF Farroupilha,Instituto Federal Farroupilha,Campus São Vicente do Sul,Sul,RS,São Vicente do Sul,São Vicente do Sul/RS
-if_farroupilha_campus_santo_angelo,2014,IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Ângelo,Sul,RS,Santo Ângelo,Santo Ângelo/RS
+if_farroupilha_campus_santo_angelo,2014,IF Farroupilha,Instituto Federal Farroupilha,Campus Santo Ãngelo,Sul,RS,Santo Ãngelo,Santo Ãngelo/RS
 if_farroupilha_campus_avancado_uruguaiana,2014,IF Farroupilha,Instituto Federal Farroupilha,Campus Avançado Uruguaiana,Sul,RS,Uruguaiana,Uruguaiana/RS
 ifsul_campus_venancio_aires,2011,IFSul,Instituto Federal Sul-rio-grandense,Campus Venâncio Aires,Sul,RS,Venâncio Aires,Venâncio Aires/RS
 ifsul_campus_gravatai,2013,IFSul,Instituto Federal Sul-rio-grandense,Campus Gravataí,Sul,RS,Gravataí,Gravataí/RS
@@ -523,7 +523,7 @@ ifsul_campus_charqueadas,2006,IFSul,Instituto Federal Sul-rio-grandense,Campus C
 ifsul_campus_passo_fundo,2007,IFSul,Instituto Federal Sul-rio-grandense,Campus Passo Fundo,Sul,RS,Passo Fundo,Passo Fundo/RS
 ifsul_campus_bage,2010,IFSul,Instituto Federal Sul-rio-grandense,Campus Bagé,Sul,RS,Bagé,Bagé/RS
 ifsul_campus_camaqua,2010,IFSul,Instituto Federal Sul-rio-grandense,Campus Camaquã,Sul,RS,Camaquã,Camaquã/RS
-ifsul_campus_avancado_jaguarao,2014,IFSul,Instituto Federal Sul-rio-grandense,Campus Avançado Jaguarão,Sul,RS,Jaguarão,Jaguarão/RS
+ifsul_campus_jaguarao,2014,IFSul,Instituto Federal Sul-rio-grandense,Campus Jaguarão,Sul,RS,Jaguarão,Jaguarão/RS
 ifsul_campus_novo_hamburgo,2016,IFSul,Instituto Federal Sul-rio-grandense,Campus Novo Hamburgo,Sul,RS,Novo Hamburgo,Novo Hamburgo/RS
 ifrs_campus_osorio,2010,IFRS,Instituto Federal do Rio Grande do Sul,Campus Osório,Sul,RS,Osório,Osório/RS
 ifrs_campus_porto_alegre_restinga,2010,IFRS,Instituto Federal do Rio Grande do Sul,Campus Porto Alegre Restinga,Sul,RS,Porto Alegre,Porto Alegre/RS
@@ -540,7 +540,7 @@ ifrs_campus_erechim,2010,IFRS,Instituto Federal do Rio Grande do Sul,Campus Erec
 ifrs_campus_alvorada,2015,IFRS,Instituto Federal do Rio Grande do Sul,Campus Alvorada,Sul,RS,Alvorada,Alvorada/RS
 ifrs_campus_rolante,2015,IFRS,Instituto Federal do Rio Grande do Sul,Campus Rolante,Sul,RS,Rolante,Rolante/RS
 ifrs_campus_vacaria,2015,IFRS,Instituto Federal do Rio Grande do Sul,Campus Vacaria,Sul,RS,Vacaria,Vacaria/RS
-ifrs_campus_avancado_veranopolis,2015,IFRS,Instituto Federal do Rio Grande do Sul,Campus Avançado Veranópolis,Sul,RS,Veranópolis,Veranópolis/RS
+ifrs_campus_veranopolis,2015,IFRS,Instituto Federal do Rio Grande do Sul,Campus Veranópolis,Sul,RS,Veranópolis,Veranópolis/RS
 ifrs_campus_viamao,2016,IFRS,Instituto Federal do Rio Grande do Sul,Campus Viamão,Sul,RS,Viamão,Viamão/RS
 ifc_campus_videira,2010,IFC,Instituto Federal Catarinense,Campus Videira,Sul,SC,Videira,Videira/SC
 ifc_campus_blumenau,2013,IFC,Instituto Federal Catarinense,Campus Blumenau,Sul,SC,Blumenau,Blumenau/SC
@@ -561,11 +561,11 @@ ifsc_campus_lages,2010,IFSC,Instituto Federal de Santa Catarina,Campus Lages,Sul
 ifsc_campus_sao_miguel_do_oeste,2010,IFSC,Instituto Federal de Santa Catarina,Campus São Miguel do Oeste,Sul,SC,São Miguel do Oeste,São Miguel do Oeste/SC
 ifsc_campus_cacador,2013,IFSC,Instituto Federal de Santa Catarina,Campus Caçador,Sul,SC,Caçador,Caçador/SC
 ifsc_campus_garopaba,2013,IFSC,Instituto Federal de Santa Catarina,Campus Garopaba,Sul,SC,Garopaba,Garopaba/SC
-ifsc_campus_jaragua_do_sul_rau,2013,IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul Rau,Sul,SC,Jaraguá do Sul,Jaraguá do Sul/SC
+ifsc_campus_jaragua_do_sul_centro_rau,2013,IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul Centro Rau,Sul,SC,Jaraguá do Sul,Jaraguá do Sul/SC
 ifsc_campus_palhoca,2013,IFSC,Instituto Federal de Santa Catarina,Campus Palhoça,Sul,SC,Palhoça,Palhoça/SC
-ifsc_campus_sao_carlos_ifsc,2013,IFSC,Instituto Federal de Santa Catarina,Campus São Carlos - IFSC,Sul,SC,São Carlos,São Carlos/SC
+ifsc_campus_sao_carlos,2013,IFSC,Instituto Federal de Santa Catarina,Campus São Carlos,Sul,SC,São Carlos,São Carlos/SC
 ifsc_campus_florianopolis,1909,IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis,Sul,SC,Florianópolis,Florianópolis/SC
-ifsc_campus_jaragua_do_sul,1994,IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul,Sul,SC,Jaraguá do Sul,Jaraguá do Sul/SC
+ifsc_campus_jaragua_do_sul_centro,1994,IFSC,Instituto Federal de Santa Catarina,Campus Jaraguá do Sul Centro,Sul,SC,Jaraguá do Sul,Jaraguá do Sul/SC
 ifsc_campus_sao_jose,2003,IFSC,Instituto Federal de Santa Catarina,Campus São José,Sul,SC,São José,São José/SC
 ifsc_campus_chapeco,2006,IFSC,Instituto Federal de Santa Catarina,Campus Chapecó,Sul,SC,Chapecó,Chapecó/SC
 ifsc_campus_florianopolis_continente,2006,IFSC,Instituto Federal de Santa Catarina,Campus Florianópolis Continente,Sul,SC,Florianópolis,Florianópolis/SC
@@ -621,12 +621,12 @@ ifsp_campus_itapetininga,2010,IFSP,Instituto Federal de São Paulo,Campus Itapet
 ifsp_campus_avancado_ilha_solteira,2015,IFSP,Instituto Federal de São Paulo,Campus Avançado Ilha Solteira,Sudeste,SP,Ilha Solteira,Ilha Solteira/SP
 ifsp_campus_jacarei,2015,IFSP,Instituto Federal de São Paulo,Campus Jacareí,Sudeste,SP,Jacareí,Jacareí/SP
 ifsp_campus_itaquaquecetuba,2016,IFSP,Instituto Federal de São Paulo,Campus Itaquaquecetuba,Sudeste,SP,Itaquaquecetuba,Itaquaquecetuba/SP
-ifsp_campus_avancado_jundiai,2016,IFSP,Instituto Federal de São Paulo,Campus Avançado Jundiaí,Sudeste,SP,Jundiaí,Jundiaí/SP
+ifsp_campus_jundiai,2016,IFSP,Instituto Federal de São Paulo,Campus Jundiaí,Sudeste,SP,Jundiaí,Jundiaí/SP
 ifsp_campus_sao_paulo_pirituba,2016,IFSP,Instituto Federal de São Paulo,Campus São Paulo Pirituba,Sudeste,SP,São Paulo,São Paulo/SP
 ifsp_campus_sorocaba,2016,IFSP,Instituto Federal de São Paulo,Campus Sorocaba,Sudeste,SP,Sorocaba,Sorocaba/SP
 ifsp_campus_avancado_tupa,2016,IFSP,Instituto Federal de São Paulo,Campus Avançado Tupã,Sudeste,SP,Tupã,Tupã/SP
 ifsp_campus_sao_jose_do_rio_preto,2017,IFSP,Instituto Federal de São Paulo,Campus São José do Rio Preto,Sudeste,SP,São José do Rio Preto,São José do Rio Preto/SP
-ifsp_campus_avancado_sao_paulo_sao_miguel,2018,IFSP,Instituto Federal de São Paulo,Campus Avançado São Paulo - São Miguel,Sudeste,SP,São Paulo,São Paulo/SP
+ifsp_campus_sao_paulo_sao_miguel,2018,IFSP,Instituto Federal de São Paulo,Campus São Paulo - São Miguel,Sudeste,SP,São Paulo,São Paulo/SP
 ifsp_polo_de_inovacao_matao,2021,IFSP,Instituto Federal de São Paulo,Polo de Inovação Matão,Sudeste,SP,Matão,Matão/SP
 ifsp_campus_bauru,2022,IFSP,Instituto Federal de São Paulo,Campus Bauru,Sudeste,SP,Bauru,Bauru/SP
 ifsp_campus_miracatu,2022,IFSP,Instituto Federal de São Paulo,Campus Miracatu,Sudeste,SP,Miracatu,Miracatu/SP
@@ -640,6 +640,6 @@ ifto_campus_paraiso_do_tocantins,2006,IFTO,Instituto Federal do Tocantins,Campus
 ifto_campus_araguaina,2009,IFTO,Instituto Federal do Tocantins,Campus Araguaína,Norte,TO,Araguaína,Araguaína/TO
 ifto_campus_gurupi,2010,IFTO,Instituto Federal do Tocantins,Campus Gurupi,Norte,TO,Gurupi,Gurupi/TO
 ifto_campus_colinas_do_tocantins,2014,IFTO,Instituto Federal do Tocantins,Campus Colinas do Tocantins,Norte,TO,Colinas do Tocantins,Colinas do Tocantins/TO
-ifto_campus_avancado_lagoa_da_confusao,2014,IFTO,Instituto Federal do Tocantins,Campus Avançado Lagoa da Confusão,Norte,TO,Lagoa da Confusão,Lagoa da Confusão/TO
-ifto_campus_avancado_pedro_afonso,2014,IFTO,Instituto Federal do Tocantins,Campus Avançado Pedro Afonso,Norte,TO,Pedro Afonso,Pedro Afonso/TO
-ifto_campus_avancado_formoso_do_araguaia,2015,IFTO,Instituto Federal do Tocantins,Campus Avançado Formoso do Araguaia,Norte,TO,Formoso do Araguaia,Formoso do Araguaia/TO
+ifto_campus_lagoa_da_confusao,2014,IFTO,Instituto Federal do Tocantins,Campus Lagoa da Confusão,Norte,TO,Lagoa da Confusão,Lagoa da Confusão/TO
+ifto_campus_pedro_afonso,2014,IFTO,Instituto Federal do Tocantins,Campus Pedro Afonso,Norte,TO,Pedro Afonso,Pedro Afonso/TO
+ifto_campus_formoso_do_araguaia,2015,IFTO,Instituto Federal do Tocantins,Campus Formoso do Araguaia,Norte,TO,Formoso do Araguaia,Formoso do Araguaia/TO
